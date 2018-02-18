@@ -13,9 +13,9 @@ In this repo we will explore the RN ecosystem by creating a React Native app usi
 
 ### TODO
 
-- [ ] Create a simple React Native app using any two of the following three methods:
-  - [ ] [Vanilla React Native](https://facebook.github.io/react-native/)
-  - [ ] [CRNA](https://github.com/react-community/create-react-native-app)
+- [X] Create a simple React Native app using any two of the following three methods:
+  - [X] [Vanilla React Native](https://facebook.github.io/react-native/)
+  - [X] [CRNA](https://github.com/react-community/create-react-native-app)
   - [ ] [Expo](https://expo.io)
 
 - [x] :star: **Bonus:**
